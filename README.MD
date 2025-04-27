@@ -22,8 +22,8 @@ A Python application to generate YouTube scripts, voiceovers, and videos using A
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/muhammadeg/Youtube-Automation.git
+cd Youtube-Automation
 ```
 
 ### 2. **Create and activate a virtual environment (optional but recommended)**
